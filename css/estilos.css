@@ -1,0 +1,38 @@
+details {
+    background-color: rgb(189, 57, 201);
+}
+h1{
+    color: blueviolet;
+    border: double 10px rgb(178, 61, 19);
+    text-align: center;
+    background-color: aquamarine;
+}
+.principal {
+    background-color: chocolate;
+}
+.parrafoResaltado {
+    font-size: 24px;
+    padding: 20px;
+    border: double 14px green;
+    border-radius: 50px;
+    background-color: coral;
+    margin: 20px;
+}
+#parrafoEspecial{
+    background-color: aqua;
+    border-radius: 50px;
+    text-align: center;
+    padding: 20px;
+    border: double 15px chocolate;
+
+
+}
+#parrafoEspecial:hover {
+    background-color:blueviolet;
+
+}
+p:hover{
+    text-decoration: underline;
+    transform: scale(95%);
+    
+}
